@@ -174,23 +174,4 @@ h1 {
   padding: 0;
 }
 
-@media (any-pointer: fine) {
-  .cursor {
-    position: fixed;
-    top: 0;
-    left: 0;
-    display: block;
-    pointer-events: none;
-  }
 
-  .cursor__inner {
-    fill: var(--cursor-fill);
-    stroke: var(--cursor-stroke);
-    stroke-width: var(--cursor-stroke-width);
-    opacity: 0.7;
-  }
-
-  .no-js .cursor {
-    display: none;
-  }
-}
