@@ -11,7 +11,7 @@ function App() {
         </h1>
       
         <div class="frame__links">
-          <a href="https://isengupt.github.io/fiber-website/">
+          <a href="https://isengupt.github.io/full-distortion/">
             Previous
           </a>
           <a href="#">Resume</a>
